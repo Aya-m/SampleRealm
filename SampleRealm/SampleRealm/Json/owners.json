@@ -1,0 +1,26 @@
+{
+    "owners": [
+             {
+             "id": "001",
+             "name": "Venusaur",
+             "pet": [{
+                        "type": "Dogs",
+                        "name": "Solar",
+                        "age": 2
+                        },{
+                        "type": "Cats",
+                        "name": "Bomb",
+                        "age": 8
+                        }]
+             },
+             {
+             "id": "002",
+             "name": "Jolteon",
+             "pet": [{
+                        "type": "Fish",
+                        "name": "Thunder",
+                        "age": 10
+                        }]
+             }
+             ]
+}

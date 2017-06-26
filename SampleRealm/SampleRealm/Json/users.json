@@ -1,0 +1,20 @@
+{
+    "users": [{
+                  "number": "001",
+                  "name": "Andrew",
+                  "profile": {
+                  "nickname": "Andy",
+                  "age": 10,
+                  "new": 0
+                  }
+                  },
+                  {
+                  "number": "002",
+                  "name": "Edward",
+                  "profile": {
+                  "nickname": "Ed",
+                  "age": 99,
+                  "new": 1
+                  }
+                  }]
+}
