@@ -1,1 +1,1 @@
-Try Realm with Swift
+Try Realm × ObjectMapper with Swift
